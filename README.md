@@ -1,5 +1,5 @@
 # Jester-Joke-recommendation-system
-Jester joke data set is available in educational licence by Berkley University. This code shows use surprise library on the dataset.
+Jester joke data set is available in educational licence by Berkley University. This code shows use surprise library on the dataset with Xgboost and Neural Network models.
 There are two jupyter notebook files and 4 png files in this repo.
 <h2>File Names</h2>
 <li>prabhudayala@gmail.com_Anonymous Ratings Data from the Jester Online Joke Recommender System.ipynb
